@@ -241,8 +241,8 @@
 				"align": "left",
 				"links": [
 					{
-						"name": "Bleeping Computer",
-						"url": "https://bleepingcomputer.com/",
+						"name": "Nextcloud",
+						"url": "https://nextcloud.shuckle.uk/",
 						"icon": "game-icons:techno-heart"
 					},
 					{
@@ -251,8 +251,8 @@
 						"icon": "arcticons:verge"
 					},
 					{
-						"name": "It's Foss",
-						"url": "https://itsfoss.com/",
+						"name": "AUR",
+						"url": "https://aur.archlinux.org",
 						"icon": "ri:mastodon-fill"
 					},
 					{
