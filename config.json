@@ -1,21 +1,21 @@
 {
-	"username": "Weedy",
+	"username": "Shuckle",
 	"theme": {
-		"backgroundColor": "#121317",
-		"windowColor": "#1e212b",
-		"glowColor": "#6b5cb157",
-		"white": "#e2e2e2",
-		"gray": "#97989d",
-		"black": "#16161e",
-		"red": "#ec6183",
-		"green": "#2ed8a2",
-		"yellow": "#e8b195",
-		"blue": "#2bc3de",
-		"cyan": "#62e0e2",
-		"magenta": "#e069aa",
-		"violet": "#d1aff8",
-		"orange": "#ff8800"
-	},
+    "backgroundColor": "#121317",
+    "windowColor": "#181825",
+    "glowColor": "#464c79",
+    "white": "#bac2de",
+    "gray": "#97989d",
+    "black": "#45475A",
+    "red": "#f38ba8",
+    "green": "#a6e3a1",
+    "blue": "#89b4fa",
+    "yellow": "#f9e2af",
+    "cyan": "#94e2d5",
+    "magenta": "#f5c2e7",
+    "violet": "#caa4f7",
+    "orange": "#fbb185"
+  },
 	"wallpaper": {
 		"url": "",
 		"easing": "ease-in-out",
@@ -92,9 +92,9 @@
 				"url": "https://reddit.com/r/{}"
 			},
 			{
-				"alias": "w",
-				"name": "Wikipedia Search",
-				"url": "https://en.wikipedia.org/wiki/{}"
+				"alias": "aur",
+				"name": "AUR Search",
+				"url": "https://aur.archlinux.org/packages?O=0&K={}"
 			}
 		]
 	},
@@ -108,22 +108,22 @@
 					{
 						"name": "Shuckle",
 						"url": "https://shuckle.uk",
-						"icon": "mdi:web"
+						"icon": "arcticons:pokemon-sleep"
 					},
 					{
 						"name": "Canvas",
 						"url": "https://canvas.qut.edu.au/",
-						"icon": "fa-brands:keybase"
+						"icon": "icon-park-outline:blackboard"
 					},
 					{
-						"name": "GPT",
-						"url": "https://chat.openai.com/",
-						"icon": "simple-icons:openai"
+						"name": "Hugging Face",
+						"url": "https://huggingface.co/chat",
+						"icon": "fluent-emoji-high-contrast:hugging-face"
 					},
 					{
 						"name": "Outlook",
 						"url": "https://outlook.office365.com/mail/inbox",
-						"icon": "simple-icons:oracle"
+						"icon": "ph:microsoft-outlook-logo-fill"
 					}
 				]
 			},
@@ -140,44 +140,44 @@
 					{
 						"name": "Disroot",
 						"url": "https://webmail.disroot.org",
-						"icon": "ph:gitlab-logo-simple-fill"
+						"icon": "cib:disroot"
 					},
 					{
 						"name": "Router",
 						"url": "https://opnsense.home",
-						"icon": "material-symbols:logo-dev"
+						"icon": "simple-icons:opnsense"
 					},
 					{
 						"name": "Cloudflare",
 						"url": "https://dash.cloudflare.com/",
-						"icon": "mdi:cloudflare"
+						"icon": "tabler:brand-cloudflare"
 					}
 				]
 			},
 			{
-				"title": "Reddit",
+				"title": "Social",
 				"color": "violet",
 				"align": "left",
 				"links": [
 					{
-						"name": "Unixporn",
-						"url": "https://reddit.com/r/unixporn",
-						"icon": "mdi:reddit"
+						"name": "Mastodon",
+						"url": "https://social.lol",
+						"icon": "mingcute:mastodon-line"
 					},
 					{
-						"name": "Linux Masterrace",
-						"url": "https://reddit.com/r/linuxmasterrace/",
-						"icon": "mdi:reddit"
+						"name": "Matrix",
+						"url": "https://matrix.org",
+						"icon": "simple-icons:matrix"
 					},
 					{
 						"name": "League of Linux",
-						"url": "https://reddit.com/r/leagueoflinux",
-						"icon": "mdi:reddit"
+						"url": "https://kbin.social/m/leagueoflinux",
+						"icon": "tabler:brand-kbin"
 					},
 					{
-						"name": "Reddit",
-						"url": "https://reddit.com",
-						"icon": "mdi:reddit"
+						"name": "Hacker News",
+						"url": "https://news.ycombinator.com",
+						"icon": "la:hacker-news"
 					}
 				]
 			},
@@ -188,23 +188,23 @@
 				"links": [
 					{
 						"name": "Invidious",
-						"url": "https://youtube.shuckle.uk",
-						"icon": "uil:polygon"
+						"url": "https://invidious.shuckle.uk",
+						"icon": "ri:youtube-line"
 					},
 					{
 						"name": "Qobuz",
 						"url": "https://qobuz.com/au-en/shop",
-						"icon": "mdi:currency-sign"
+						"icon": "arcticons:qobuz"
 					},
 					{
 						"name": "LoL Esports",
 						"url": "https://watch.lolesports.com/",
-						"icon": "ph:toilet-paper-bold"
+						"icon": "simple-icons:leagueoflegends"
 					},
 					{
 						"name": "Jellyfin",
-						"url": "https://jellyfin.shuckle.uk",
-						"icon": "tabler:hand-rock"
+						"url": "https://netflix.shuckle.uk",
+						"icon": "simple-icons:jellyfin"
 					}
 				]
 			},
@@ -216,22 +216,22 @@
 					{
 						"name": "Internal Homer",
 						"url": "https://homer.shuckle.uk/",
-						"icon": "material-symbols:science"
+						"icon": "ion:home-sharp"
 					},
 					{
 						"name": "External Homer",
 						"url": "https://home.shuckle.uk",
-						"icon": "mdi:reddit"
+						"icon": "material-symbols:dashboard"
 					},
 					{
-						"name": "Speedtest",
-						"url": "https://speedtest.net/",
-						"icon": "simple-icons:nasa"
+						"name": "Simple Login",
+						"url": "https://app.simplelogin.io",
+						"icon": "simple-icons:simplelogin"
 					},
 					{
-						"name": "Old Startpage",
-						"url": "https://oldstartpage.shuckle.uk",
-						"icon": "mdi:black-mesa"
+						"name": "Uptime Kuma",
+						"url": "https://uptime.shuckle.uk",
+						"icon": "simple-icons:uptimekuma"
 					}
 				]
 			},
@@ -243,22 +243,22 @@
 					{
 						"name": "Nextcloud",
 						"url": "https://nextcloud.shuckle.uk/",
-						"icon": "game-icons:techno-heart"
+						"icon": "simple-icons:nextcloud"
 					},
 					{
 						"name": "U.GG",
 						"url": "https://u.gg/",
-						"icon": "arcticons:verge"
+						"icon": "mdi:graph-line"
 					},
 					{
 						"name": "AUR",
 						"url": "https://aur.archlinux.org",
-						"icon": "ri:mastodon-fill"
+						"icon": "mdi:arch"
 					},
 					{
 						"name": "FMHY",
 						"url": "https://fmhy.pages.dev/",
-						"icon": "uil:linux"
+						"icon": "gravity-ui:play"
 					}
 				]
 			}
